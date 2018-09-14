@@ -1,0 +1,6 @@
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\bin\Debug\Gyakorlo3_binaris_keresofa.exe.config
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\bin\Debug\Gyakorlo3_binaris_keresofa.exe
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\bin\Debug\Gyakorlo3_binaris_keresofa.pdb
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\obj\Debug\Gyakorlo3_binaris_keresofa.csprojResolveAssemblyReference.cache
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\obj\Debug\Gyakorlo3_binaris_keresofa.exe
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_binaris_keresofa\Gyakorlo3_binaris_keresofa\obj\Debug\Gyakorlo3_binaris_keresofa.pdb
